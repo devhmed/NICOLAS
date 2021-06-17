@@ -1,0 +1,9 @@
+p {
+color:purple;font-size:2em;text-align:center;font-family:comic sans ms;text-decoration:line-through;}
+#image {float:right;}
+H1,H2,H3 {color:red;font-family:Arial black;font-size:3em;border: 3px dashed green;border-radius:10px 20px 60px 3px;}
+p {background-image:url("C:/Users/nclsc/Desktop/SIte web/help.jpg");background-repeat:repeat-y; background-color:white;border:4px outset red;border-radius:10px 20px 2px 30px;text-transform:capitalize;}
+input:focus {background-color:red;}
+ul {list-style-type:square;}
+ol {list-style-image:url("C:/Users/nclsc/Desktop/SIte web/dungeon_Stock.jpg");}
+
